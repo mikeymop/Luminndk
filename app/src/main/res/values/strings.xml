@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Luminndk</string>
+    <!-- Form Strings   -->
+    <string name="device_id_hint">xx:xx:xx:xx:xx:xx</string>
+    <string name="device_id_title">Enter Device ID/MAC Address eg: xx:xx:xx:xx:xx:xx</string>
+    <string name="connect">Connect</string>
+</resources>
